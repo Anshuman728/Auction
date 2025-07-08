@@ -67,4 +67,7 @@ A full-stack Auction Management platform built with the **MERN stack**, featurin
 
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/b4ef9c09-331b-40d8-b465-79dca15048c0" />
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/c9c3f46e-9f52-4e60-bdb2-506de285f567" />
+
+
 
