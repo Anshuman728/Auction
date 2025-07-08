@@ -59,3 +59,12 @@ A full-stack Auction Management platform built with the **MERN stack**, featurin
 
 ## 📦 Folder Structure
 
+/client --> React Frontend (Redux, Routes, Components)
+/server --> Node + Express Backend (APIs, JWT, Mail)
+/models --> Mongoose Schemas (User, Auction, Bids)
+/controllers --> Business logic for APIs
+/utils --> Email, Authentication Middleware
+
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/b4ef9c09-331b-40d8-b465-79dca15048c0" />
+
+
